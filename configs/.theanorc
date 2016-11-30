@@ -1,0 +1,8 @@
+[global]
+device = cpu
+# floatX = float64
+floatX = float32
+
+#[global]
+#device = gpu
+#floatX = float32
