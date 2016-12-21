@@ -66,6 +66,7 @@ export PATH="/Developer/NVIDIA/CUDA-6.5/bin:$PATH"
 # else
 #   export EDITOR='mvim'
 # fi
+export P4EDITOR='emacs'
 export EDITOR='emacs'
 export VISUAL='emacs'
 
